@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/hhanh00/aaa/compare/aaa-v1.1.2...aaa-v1.1.3) (2025-07-27)
+
+
+### Bug Fixes
+
+* app.json ([f174412](https://github.com/hhanh00/aaa/commit/f174412f4a60a2c6b74a7cf154edc7a7a54a63fb))
+
 ## [1.1.2](https://github.com/hhanh00/aaa/compare/aaa-v1.1.1...aaa-v1.1.2) (2025-07-27)
 
 
