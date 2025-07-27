@@ -26,3 +26,4 @@ flutter_rust_bridge_codegen create --org org.hanh --rust-crate-name laaa aaa
 
 ## MacOS
 - Enable automatic signing & local deployment
+- app.json
