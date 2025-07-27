@@ -19,3 +19,10 @@ flutter_rust_bridge_codegen create --org org.hanh --rust-crate-name laaa aaa
 ## IOS
 - Export Apple Distribution Key
 - Create new Provisioning Profile for app store
+- Copy export_options.plist
+
+## Linux/Windows
+- packaging
+
+## MacOS
+- Enable automatic signing & local deployment
