@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - laaa (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - laaa (from `.symlinks/plugins/laaa/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  laaa:
+    :path: ".symlinks/plugins/laaa/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  laaa: e77d0dbe910b4b03f0670394333b50ac14a71c1f
+
+PODFILE CHECKSUM: 4305caec6b40dde0ae97be1573c53de1882a07e5
+
+COCOAPODS: 1.16.2

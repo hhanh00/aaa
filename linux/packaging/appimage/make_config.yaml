@@ -1,0 +1,13 @@
+display_name: AAA
+
+icon: misc/icon.png
+
+keywords:
+  - Test
+
+generic_name: AAA
+
+metainfo: linux/packaging/aaa.appdata.xml
+
+categories:
+  - Finance
