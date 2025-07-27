@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/hhanh00/aaa/compare/aaa-v1.1.1...aaa-v1.1.2) (2025-07-27)
+
+
+### Bug Fixes
+
+* android jks again ([f4dabb3](https://github.com/hhanh00/aaa/commit/f4dabb3083db1af17d7379aec31d33e75642f794))
+
 ## [1.1.1](https://github.com/hhanh00/aaa/compare/aaa-v1.1.0...aaa-v1.1.1) (2025-07-27)
 
 
