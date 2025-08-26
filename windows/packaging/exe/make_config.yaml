@@ -1,0 +1,6 @@
+# script_template: "setup.iss"
+app_id: f9c05fa3-73da-494c-aed1-89b44530f66f
+display_name: AAA
+create_desktop_icon: true
+locales:
+  - en
